@@ -56,7 +56,7 @@ if pill.lower() == "red":
         time.sleep(1)
         print("You spend some time searching the room, but find nothing of interest.")
         time.sleep(1)
-        print("You return to the starting room.")
+        print("You died of starvation.")
     else:
         print("Invalid input. Please try again.")
 
